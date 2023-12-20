@@ -14,4 +14,5 @@ class Square:
         of the square.
 
         """
+        self.__size = size
 
